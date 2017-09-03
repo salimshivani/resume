@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Resume</string>
+
+    <!--FetchDetails.java content-->
+    <string name="tvImage">Image</string>
+    <string name="btnImage">Insert Image</string>
+
+    <string name="tvName">Name</string>
+    <string name="etName">Enter<!-- your--> name</string>
+
+    <string name="tvEmail">Email</string>
+    <string name="etEmail">Enter<!-- your--> valid email id</string>
+
+    <string name="tvContact">Contact</string>
+    <string name="etContact">Enter<!-- your--> contact number</string>
+
+    <string name="tvSkills">Skills</string>
+    <string name="etSkills">Enter<!-- your--> skills separated by (,)</string>
+
+    <string name="tvDOB">DOB</string>
+    <string name="etDOB">Enter<!-- your--> birthdate</string>
+
+    <string name="btnSubmit">Submit</string>
+
+    <!--showDetails.java content-->
+    <string name="title_activity_show_details">View Details</string>
+    <string name="message">Here are your details you entered<br /></string>
+    <string name="action_settings">Settings</string>
+</resources>

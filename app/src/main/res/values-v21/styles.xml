@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:reqNavigation">wheel</item>
+        <item name="android:navigationMode">listMode</item>
+        <item name="windowNoTitle">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <!--<item name="android:buttonBarButtonStyle">@style/Widget.AppCompat.Button.Borderless</item>-->
+        <item name="android:colorButtonNormal">@android:color/transparent</item>
+        <!--<item name="android:dividerVertical">@id/buttonSignUp</item>-->
+        <!--<item name="android:dividerHorizontal">@id/buttonSignUp</item>-->
+        <!--<item name="android:borderlessButtonStyle">@id/buttonSignUp</item>-->
+        <!--<item name="android:buttonBarStyle">@android:color/transparent</item>-->
+        <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+    </style>
+</resources>
